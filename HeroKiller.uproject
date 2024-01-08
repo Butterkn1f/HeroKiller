@@ -98,6 +98,21 @@
 				"IOS",
 				"TVOS"
 			]
+		},
+		{
+			"Name": "RecentBlueprintMenu",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/484f72297c144cf9b5c35fea3359500c"
+		},
+		{
+			"Name": "LiveBlueprintDebugger",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6019cfbf80bb4942add3b61d9180380a"
+		},
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		}
 	]
 }
